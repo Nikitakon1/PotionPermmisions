@@ -1,0 +1,7 @@
+name: PotionPermisions
+main: info.TheMFN.PotionPermisions
+version: 0.0.1
+
+commands:
+  aspower:
+    description: Power-Up Command for the Assassinn clan!
